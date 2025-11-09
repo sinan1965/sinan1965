@@ -1,23 +1,26 @@
-# Hi there, I’m Sinan 👋
+# Hi there, I'm Sinan! 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile.
 
-## 👨‍💻 About Me
-- 🔭 I’m working on various projects and always keen to learn.
-- 🌱 Currently learning new technologies and frameworks.
-- 💬 Ask me about industrial data analytics, programming, or anything tech-related!
+## 🚀 About Me
+
+- 🔭 I’m currently working on awesome web and software projects
+- 🌱 I’m learning new technologies all the time
+- 💬 Ask me about programming, technology, or anything!
+- 📫 How to reach me: [your email or social link]
 
 ## 🛠️ Technologies & Tools
-- Languages: Python, SQL...
-- Tools: VS Code, Git...
 
-## 📫 How to reach me
-- Email: sinanfindikoglu2015@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sinanfindikoglu/ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+<!-- Add more as needed -->
 
-## ⚡ Fun fact
-- I love building cool things and learning new skills!
+## 📈 GitHub Stats
+
+![Sinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinan1965&show_icons=true&theme=radical)
 
 ---
 
-⭐️ Feel free to check out my repositories and connect!
+⭐️ From [sinan1965](https://github.com/sinan1965)
